@@ -1,4 +1,4 @@
-#DEC-2-regions-broad 
+#DEC-2-regions-narrow 
 library(optimx)         # You need to have some version of optimx available
                         # as it is a BioGeoBEARS dependency; however, if you
                         # don't want to use optimx, and use optim() (from R core) 
